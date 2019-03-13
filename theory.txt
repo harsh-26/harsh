@@ -1,0 +1,18 @@
+Selector                                          Purpose
+
+a,b                                     Multipe element Selector  ->> multipe_ele.html
+a b                                     Descent Selector          ->> Descendant_eg.html
+a>b                                     Child Selector            ->> child_selector.html
+a+b                                     Adjacent sibling Selector
+[a=b]                                   Attribute Selector      ->> Attribute_selector.html
+a:b                                     pseudoclass Selector    ->> Hover.html
+a::b                                    pseudoelement Selector  ->> Example in selection_eg.html
+
+
+New features of html5 
+
+Tags like <header>  <footer> <main> are added
+ 
+contenteditable
+datalist
+regular expression
